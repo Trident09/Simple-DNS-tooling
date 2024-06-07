@@ -40,9 +40,9 @@ pip install -r requirements.txt
 This command will automatically install all the packages listed in `requirements.txt`, which should contain:
 
 ```
-dnspython
-colorama
-pyfiglet
+dnspython==2.1.0
+colorama==0.4.4
+pyfiglet==0.8.post1
 ```
 
 ## Usage
@@ -80,4 +80,4 @@ This tool is for educational and ethical testing purposes only. Users are respon
 
 ## Author
 
-Trident09
+[Trident09](https://github.com/Trident09) - [LinkedIn](https://linkedin.com/in/codetrident)

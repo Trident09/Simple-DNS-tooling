@@ -1,7 +1,7 @@
 import dns.resolver
 import sys
 import re
-import colorama
+import colorama 
 import pyfiglet
 import time
 
